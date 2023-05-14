@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: d0231e5a5a52f8545bd805ffe1d939ef
+  - enabled: 1
+    path: Assets/Scenes/Blockout.unity
+    guid: 60913122fbd867e4993ae52d15c3e9db
+  - enabled: 1
+    path: Assets/Scenes/Stage Complete.unity
+    guid: 7f9368763731fc948abf7d344d4a383e
+  - enabled: 1
+    path: Assets/Scenes/Blockout 1.unity
+    guid: 227e8cfec93bd094c974ccdcbb209609
+  m_configObjects: {}
